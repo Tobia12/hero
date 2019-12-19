@@ -8,6 +8,7 @@ header{
     background-color: #85271A ;
     padding-top: 30px;
     padding-bottom: 0px;
+    background-image: url(https://i.pinimg.com/originals/8f/17/27/8f1727270ded1cb85146fb8ca5223ec9.jpg);
 
 }
 
@@ -67,6 +68,7 @@ footer{
     color: white;
     padding: 20px;
     margin-top: 80px;
+    background-image: url(https://i.pinimg.com/originals/8f/17/27/8f1727270ded1cb85146fb8ca5223ec9.jpg);
 }
 footer p{
     margin: 0;
