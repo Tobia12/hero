@@ -8,8 +8,9 @@ header{
     background-color: #85271A ;
     padding-top: 30px;
     padding-bottom: 0px;
-    background-image: url(https://i.pinimg.com/originals/8f/17/27/8f1727270ded1cb85146fb8ca5223ec9.jpg);
-
+    background-image: url(https://blenderartists.org/uploads/default/original/3X/e/b/ebe45184e3ef771c302d9fa2cc51b6312edf12e4.jpg);
+    background-position: center top;
+    background-size: cover;
 }
 
 h1, h2{
@@ -30,7 +31,7 @@ header img{
     display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 20px solid #52504F ;
+  border: 10px solid white ;
   
   
 }
@@ -68,7 +69,8 @@ footer{
     color: white;
     padding: 20px;
     margin-top: 80px;
-    background-image: url(https://i.pinimg.com/originals/8f/17/27/8f1727270ded1cb85146fb8ca5223ec9.jpg);
+    background-image: url(https://brickextratest.files.wordpress.com/2013/01/black_gate.png);
+    background-position: center center;
 }
 footer p{
     margin: 0;
